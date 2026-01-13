@@ -1,0 +1,11 @@
+id,name,height,weight,types,abilities
+1,bulbasaur,7,69,"grass, poison","overgrow, chlorophyll"
+2,ivysaur,10,130,"grass, poison","overgrow, chlorophyll"
+3,venusaur,20,1000,"grass, poison","overgrow, chlorophyll"
+4,charmander,6,85,fire,"blaze, solar-power"
+5,charmeleon,11,190,fire,"blaze, solar-power"
+6,charizard,17,905,"fire, flying","blaze, solar-power"
+7,squirtle,5,90,water,"torrent, rain-dish"
+8,wartortle,10,225,water,"torrent, rain-dish"
+9,blastoise,16,855,water,"torrent, rain-dish"
+10,caterpie,3,29,bug,"shield-dust, run-away"
